@@ -3,7 +3,7 @@
 
 |Week|Topic|Seminar|Assignment|
 |:---:|:---:|:---:|:---:|
-| `1` | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면전환 | [1️⃣](https://mimdoing.tistory.com/entry/iOSSwift-iOS-%EA%B8%B0%EC%B4%88) 2️⃣ 3️⃣ | 🥰 |
+| `1` | iOS 기초, Xcode, H.I.G를 통한 컴포넌트의 이해, 화면전환 | [1️⃣](https://mimdoing.tistory.com/entry/iOSSwift-iOS-%EA%B8%B0%EC%B4%88) 2️⃣ 3️⃣ 4️⃣| 🥰 |
 | `2` | Autolayout를 통한 기초 UI 구성, Scroll View의 이해 |  |  |
 | `3` | 데이터 전달, TableView, CollectionView |  |  |
 | `4` | Networking |  |  |
