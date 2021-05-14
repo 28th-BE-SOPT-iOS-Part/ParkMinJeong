@@ -1,0 +1,6 @@
+framework module Pods_Seminar_4th_review {
+  umbrella header "Pods-Seminar-4th-review-umbrella.h"
+
+  export *
+  module * { export * }
+}
